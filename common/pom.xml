@@ -9,7 +9,7 @@
 
     <distributionManagement>
         <repository>
-            <id>common-repo</id>
+            <id>maven-repo</id>
             <!-- 该路径下会自动在项目根目录下生成repo文件目录，该目录包含jar包-->
             <url>file://${basedir}/repo</url>
         </repository>
