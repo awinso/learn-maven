@@ -8,12 +8,27 @@
     <packaging>jar</packaging>
     <version>0.1</version>
 
+    <!--不区分snapshot或者release-->
     <repositories>
         <repository>
             <id>maven-repo</id>
             <url>https://raw.githubusercontent.com/awinso/learn-maven/main/common/repo</url>
         </repository>
     </repositories>
+
+    <!--区分snapshot和release-->
+    <!--
+    <repositories>
+        <repository>
+            <id>yihui-maven-repo-snap</id>
+            <url>https://raw.githubusercontent.com/awinso/learn-maven/snapshot/repository</url>
+        </repository>
+        <repository>
+            <id>yihui-maven-repo-release</id>
+            <url>https://raw.githubusercontent.com/awinso/learn-maven/release/repository</url>
+        </repository>
+    </repositories>
+    -->
 
 
     <properties>

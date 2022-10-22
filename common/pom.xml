@@ -5,13 +5,13 @@
 
     <groupId>com.awinso</groupId>
     <artifactId>common</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <distributionManagement>
         <repository>
             <id>maven-repo</id>
             <!-- 该路径下会自动在项目根目录下生成repo文件目录，该目录包含jar包-->
-            <url>file://${basedir}/repo</url>
+            <url>file:///Users/hello/Workspace/Java/mvnrepository/repo</url>
         </repository>
     </distributionManagement>
     <properties>
