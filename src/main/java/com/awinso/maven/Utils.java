@@ -1,6 +1,6 @@
 package com.awinso.maven;
 
-public class Hello {
+public class Utils {
     public void sayHello(){
         System.out.println("Hello World");
     }
