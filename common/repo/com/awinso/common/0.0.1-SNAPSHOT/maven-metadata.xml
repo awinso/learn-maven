@@ -3,21 +3,21 @@
   <groupId>com.awinso</groupId>
   <artifactId>common</artifactId>
   <versioning>
-    <lastUpdated>20221022112938</lastUpdated>
+    <lastUpdated>20221022113705</lastUpdated>
     <snapshot>
-      <timestamp>20221022.112938</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20221022.113705</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20221022.112938-3</value>
-        <updated>20221022112938</updated>
+        <value>0.0.1-20221022.113705-1</value>
+        <updated>20221022113705</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20221022.112938-3</value>
-        <updated>20221022112938</updated>
+        <value>0.0.1-20221022.113705-1</value>
+        <updated>20221022113705</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

@@ -11,7 +11,7 @@
     <repositories>
         <repository>
             <id>maven-repo</id>
-            <url>https://raw.githubusercontent.com/awinso/learn-maven/main/repo</url>
+            <url>https://raw.githubusercontent.com/awinso/learn-maven/main/common/repo</url>
         </repository>
     </repositories>
 
