@@ -12,7 +12,7 @@
     <repositories>
         <repository>
             <id>maven-repo</id>
-            <url>https://raw.githubusercontent.com/awinso/learn-maven/main/common/repo</url>
+            <url>https://raw.githubusercontent.com/awinso/mvnrepository/main/repo</url>
         </repository>
     </repositories>
 
@@ -45,6 +45,16 @@
             <groupId>com.awinso</groupId>
             <artifactId>common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.awinso</groupId>
+            <artifactId>core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.baidu.fsg</groupId>
+            <artifactId>uid-generator</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
         </dependency>
 
     </dependencies>
