@@ -12,7 +12,7 @@
     <repositories>
         <repository>
             <id>maven-repo</id>
-            <url>https://raw.githubusercontent.com/awinso/mvnrepository/main/repo</url>
+            <url>https://raw.githubusercontent.com/awinso/mvnrepository/main</url>
         </repository>
     </repositories>
 
